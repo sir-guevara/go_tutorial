@@ -16,3 +16,5 @@ func main() {
 	fmt.Printf("\n Truncated number is :  %d \n", truncateNumber)
 
 }
+
+
