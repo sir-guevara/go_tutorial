@@ -14,7 +14,6 @@ import (
 func main() {
 
 	wg := &sync.WaitGroup{}
-	// Prompt the user for input and create the input array
 	fmt.Println("Enter a series of integers separated by spaces:")
 	reader := bufio.NewReader(os.Stdin)
 	input, _ := reader.ReadString('\n')
