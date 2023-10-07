@@ -70,7 +70,7 @@ func mergeSortedArrays(ch chan []int) []int {
 		for _, num := range c {
 					merged = append(merged, num)
 				}
-		sort.Ints(merged)
+		// sort.Ints(merged)
 	}
 
 	return merged
