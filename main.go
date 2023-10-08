@@ -15,5 +15,5 @@ func fA( ) func() int{
 func main(){
 		fB:=fA()
 		fmt.Print(fB())
-		fmt.Print(fB())
+		// fmt.Print(fB())
 }
