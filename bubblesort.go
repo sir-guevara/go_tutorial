@@ -40,5 +40,5 @@ func main(){
 		sl = append(sl,num)
 	}
 
-	// BubbleSort(sl)
+	BubbleSort(sl)
 }
