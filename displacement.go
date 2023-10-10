@@ -25,11 +25,9 @@ func main(){
 	fmt.Print("Enter initial velocity (vo): ")
 	fmt.Scan(&initialVelocity)
 
-	// Prompt the user to enter initial displacement
 	fmt.Print("Enter initial displacement (so): ")
 	fmt.Scan(&initialDisplacement)
 
-	// Prompt the user to enter time
 	fmt.Print("Enter time (t): ")
 	fmt.Scan(&time)
 
