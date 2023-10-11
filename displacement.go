@@ -1,4 +1,5 @@
 /* A Displacement function which take input from use and calculates the displacement over a given time . s = displacement , t= time, a = acceleration, v0 = initial velocity, s0 = initial displacement.  S =1/2 at^2 + v0t+s0
+
 */
 
 
