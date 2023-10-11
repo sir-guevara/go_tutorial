@@ -17,11 +17,10 @@ func GenDisplaceFn(a , v0 ,s0 float64)func (float64) float64{
 
 func main(){
 	var acceleration, initialVelocity, initialDisplacement, time float64
-	// Prompt the user to enter acceleration
+
 	fmt.Print("Enter acceleration (a): ")
 	fmt.Scan(&acceleration)
 
-	// Prompt the user to enter initial velocity
 	fmt.Print("Enter initial velocity (vo): ")
 	fmt.Scan(&initialVelocity)
 
